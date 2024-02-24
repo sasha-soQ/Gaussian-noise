@@ -3,6 +3,7 @@ This study aims to compare the effectiveness of a 2-pass 3x3 Median filter and a
 ### Image Processing
 
 *original img*  
+
 <img src=https://github.com/sasha-soQ/Gaussian-noise/assets/109583554/b04a291e-05d6-4adb-9c51-27b25bee50db width=40% />
 
 ### 1. Define the Gaussian noise function and apply it to the image  
